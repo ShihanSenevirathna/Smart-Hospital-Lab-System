@@ -1,0 +1,9 @@
+{
+    "total_users": 5,
+    "total_patients": 1,
+    "total_doctors": 2,
+    "total_tests": 4,
+    "pending_tests": 2,
+    "system_uptime": "",
+    "last_backup": null
+}
